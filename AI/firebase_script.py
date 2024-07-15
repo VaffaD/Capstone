@@ -32,7 +32,7 @@ class FirebaseObserver:
     def initialize_firebase(self):
         # Firebase configuration
         config = {
-	    "apiKey": "AIzaSyDIwDlBu0LeriJWo2r7stDa_U_TxfSdabk",
+	    "apiKey": "*************************",
 	    "authDomain": "passengersense.firebaseapp.com",
 	    "databaseURL": "https://passengersense-default-rtdb.firebaseio.com",
 	    "projectId": "passengersense",
